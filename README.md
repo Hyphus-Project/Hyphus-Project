@@ -1,16 +1,13 @@
-### Hi there 👋
+:earth_americas: ❯ **Hyphus.**
 
-<!--
-**Hyphus-Project/Hyphus-Project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+➔ **Créations de bots Discord Personnaliser ( Bot Radio, Backup, Inviter Manager, Publicitier )**. :computer: 
 
-Here are some ideas to get you started:
+➔ **Nous recherchons des modérateurs ainsi que community manager** :rocket: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+➔ **Nos tarifs sur notre Discord**
+
+
+
+**:tickets: ➔ Rejoindre notre serveur Discord :** https://discord.gg/vTkj784nUW
+
+**:art: ➔ Bannière :** https://cdn.discordapp.com/attachments/852796943692464139/858073814642196490/truc_bizarre_arrondi.png
